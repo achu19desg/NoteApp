@@ -19,7 +19,7 @@ This app allows users to create, edit, delete, and store notes using Local Stora
 
 ## 🚀 Live Demo
 
-🔗 https://achu19desg.github.io/NoteApp/
+🔗https://achu19desg.github.io/NoteApp/
 
 ---
 
@@ -43,6 +43,4 @@ This app allows users to create, edit, delete, and store notes using Local Stora
 
 ---
 
-## 👩‍💻 Author
 
-**Archana P**
